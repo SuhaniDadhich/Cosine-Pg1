@@ -1,0 +1,44 @@
+body{
+   background:linear-gradient(to right,#adf8ff 0%, #78a7ba 50%, #adf8ff 99%)
+}
+
+.register-form{
+  width:600px;
+  margin: 50px auto;
+  background:linear-gradient(to right,#ffffff 0%, #fafafa 50%, #ffffff 99%)
+}
+
+.register-form {
+  font-family: "Times New Roman", sans-serif;
+  width:650px;
+  margin:30px auto;
+  background:linear-gradient(to right, #ffffff 0%, #fafafa 50%, #ffffff 99%);
+  border-radius: 10px;
+  
+.form-header{
+  background-color: #eff0f1;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.form-header h1 {
+  font-size: 30px;
+  text-align:center;
+  color:#666;
+  padding:22px 0;
+  border-bottom:1px solid #cccccc;
+}
+.btn {
+   display:inline-block;
+   padding:15px 20px;
+   background-color: #1BBA93;
+   font-size:18px;
+   border-radius:5px;
+   color:#bcf5e7;
+   
+}
+
+.btn:hover {
+  background-color: #ffffff;
+  color:white;
+}
